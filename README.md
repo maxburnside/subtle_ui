@@ -1,2 +1,3 @@
-# subtle_ui
- Simple and subtly beautiful web components
+# Subtle UI
+
+Simple, accessible, and subtly beautiful web components
