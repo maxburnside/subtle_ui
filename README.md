@@ -24,7 +24,7 @@ You can optionally use the demo content if you'd like. It's there to make it eas
 
 Use the components for anything you'd like, personal or commercial. The only thing I ask is that you don't re-sell these components. They're free for everyone. That's the only rule 🙂.
 
-## ☕ Supporting Project
+## ☕ Support Project
 
 This project is free to use, and open source. If you find it useful and want to show your support, you can <a href="https://www.buymeacoffee.com/maxburnside">buy me a coffee</a>.
 
