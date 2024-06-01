@@ -30,7 +30,7 @@ This project is free to use, and open source. If you find it useful and want to 
 
 ## ⁉️ Issues/Feedback
 
-Found any issues with the components? Please <a href="https://github.com/maxburnside/subtle_ui/issues/new>submit an issue on GitHub</a> and I'll take a look as soon as I can.
+Found any issues with the components? Please <a href="https://github.com/maxburnside/subtle_ui/issues/new">submit an issue on GitHub</a> and I'll take a look as soon as I can.
 
 Want to provide feedback? You can reach me:
 
