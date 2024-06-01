@@ -14,7 +14,7 @@ Navbar is a fixed position, navigation bar that is fully responsive down to view
 
 
 ## 💾 Installation
-1. Install <a href="https://tailwindcss.com/docs/installation" target="_blank">TailwindCSS</a>, if you haven't already. Note: Subtle UI uses the latest stable version of TailwindCSS. As of Friday May 31, 2024, that is v3.4.3. Please make sure to upgrade TailwindCSS to the latest version to ensure that all styling properties work as intended. The plan is to continue to support the latest stable version of TailwindCSS, so if you encounter issues, upgrading your TailwindCSS version will be a great first step to troubleshoot.
+1. Install <a href="https://tailwindcss.com/docs/installation" target="_blank">TailwindCSS</a>, if you haven't already. Note: Subtle UI uses the latest stable version of TailwindCSS. As of Friday May 31, 2024, that is v3.4.3. Please make sure to upgrade TailwindCSS to the latest version to ensure that all styling properties work as intended.
 2. Copy and paste the `<nav>` content from the <a href="https://github.com/maxburnside/subtle_ui/blob/main/v1/components/navbar_with_tailwindcss.html" target="_blank">navbar_with_tailwind.html component file</a> into your project
 3. Enjoy!
 
