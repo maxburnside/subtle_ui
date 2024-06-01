@@ -32,8 +32,8 @@ This project is free to use, and open source. If you find it useful and want to 
 
 Found any issues with the components? Please submit an issue on GitHub and I'll take a look as soon as I can.
 
-Want to provide feedback? 
+Want to provide feedback? You can either:
 
-You can either send me a tweet: <a href="https://twitter.com/maxburnside">@maxburnside</a>
+Send me a tweet <a href="https://twitter.com/maxburnside">@maxburnside</a>
 
-Or send me an email: <a href="mailto:hello@maxburnside.com">hello@maxburnside.com</a>
+Send me an email: <a href="mailto:hello@maxburnside.com">hello@maxburnside.com</a>
