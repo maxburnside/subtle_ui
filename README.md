@@ -34,6 +34,6 @@ Found any issues with the components? Please submit an issue on GitHub and I'll 
 
 Want to provide feedback? 
 
-You can either tweet at me: <a href="https://twitter.com/maxburnside">@maxburnside<>
+You can either send me a tweet: <a href="https://twitter.com/maxburnside">@maxburnside</a>
 
 Or send me an email: <a href="mailto:hello@maxburnside.com">hello@maxburnside.com</a>
