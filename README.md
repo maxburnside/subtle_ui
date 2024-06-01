@@ -36,4 +36,4 @@ Want to provide feedback? You can either:
 
 Send me a tweet <a href="https://twitter.com/maxburnside">@maxburnside</a>
 
-Send me an email: <a href="mailto:hello@maxburnside.com">hello@maxburnside.com</a>
+Send me an email <a href="mailto:hello@maxburnside.com">hello@maxburnside.com</a>
