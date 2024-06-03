@@ -1,6 +1,8 @@
 # Subtle UI
 
-Subtle UI is a growing library of simple, accessible, and subtly beautiful web components. Currently available as TailwindCSS classes written in plain HTML (standalone CSS version also coming soon), it supports light and dark modes.
+Subtle UI is a free, open-source library of intuitive, accessible, and subtly beautiful web components.
+
+Currently available as TailwindCSS classes written in plain HTML (standalone CSS version also coming soon), it supports light and dark modes.
 
 ## 💠 Components
 
